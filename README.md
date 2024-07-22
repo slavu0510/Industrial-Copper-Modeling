@@ -32,8 +32,7 @@ Before running the code, ensure that you have the following dependencies install
   
 * Scikit-learn
   
-*Streamlit
+* Streamlit
 
 In this project, we have successfully developed a pipeline to preprocess industrial copper data, handle missing values, detect outliers, and address skewness. We have also built regression and classification models to predict the selling price and determine if a sale was won or lost. The trained models have been saved as a pickle file for easy retrieval. The Streamlit application provides a user-friendly interface to utilize the trained model for making predictions.
 
-Industry-copper-modelling/README.md at main · SRIDHAR3131/Industry-copper-modelling
