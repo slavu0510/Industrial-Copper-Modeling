@@ -9,11 +9,12 @@ This project focuses on modelling industrial copper data using Python and variou
 
 # PRICE PREDICTION
 
-Screenshot 2023-06-20 010417
+![image](https://github.com/user-attachments/assets/816db121-8513-4c58-b0b1-3d44393bb3ec)
+
 
 # PREDICT STATUS
+![image](https://github.com/user-attachments/assets/4948fa21-10b3-42eb-9bd1-0af386d2c3fa)
 
-Screenshot 2023-06-20 013726
 
 # Project Structure
 
